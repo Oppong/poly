@@ -1,0 +1,200 @@
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Montserrat', sans-serif;
+  line-height: 1.5;
+}
+
+
+
+/* navigation */
+.intro {
+  text-align: left;
+  color: white;
+  padding: 15% 15%;
+}
+.intro-heading {
+  font-weight: bolder;
+  font-size: 7rem;
+}
+
+.intro-body {
+    font-size: 1.2rem;
+    font-weight: normal;
+}
+
+nav {
+  padding: 15% 15%;
+}
+
+@media screen and (max-width: 578px) {
+  .intro {
+    padding: 50% 10%;
+  }
+
+  .intro-heading {
+    font-size: 3rem;
+  }
+
+  .intro-body {
+      margin-bottom:10%;
+      font-size: 1rem;
+  }
+}
+
+
+
+/* banner section */
+
+.banner {
+  text-align: center;
+  color: white;
+  padding: 12% 0;
+}
+.banner-heading {
+  font-weight: bolder;
+  font-size: 6rem;
+}
+
+.banner-body {
+    font-size: 1.2rem;
+    font-weight: normal;
+}
+
+.hero-image {
+  margin-top: -100px;
+}
+@media screen and (max-width: 578px) {
+
+  .banner {
+    padding: 50% 0;
+  }
+
+  .banner-heading {
+    font-weight: bolder;
+    font-size: 2.8rem;
+  }
+
+  .banner-body {
+    padding: 0 10%;
+  }
+
+}
+
+
+/* gallery section */
+
+.gallery {
+  padding: 15% 15%;
+}
+
+.gallery-heading {
+  font-weight: bolder;
+  padding: 95% 0 0 5%;
+}
+
+.gallery-body {
+  font-size: 1.1rem;
+  font-weight: normal;
+  line-height: 1.2;
+  padding: 0 5%;
+  color: #B9BCCA;
+}
+
+
+/* mission section */
+
+.mission-section {
+   padding: 10% 15%;
+}
+
+.mission-title {
+  font-weight: bolder;
+}
+
+.mission-body {
+line-height: 1.7;
+}
+
+
+/* management section */
+
+.management-section {
+  padding: 10% 15%;
+}
+
+
+/* executives section */
+.executives-section {
+  padding: 10% 15%;
+}
+
+
+/* videos section */
+.videos-section {
+  padding: 10% 15%;
+}
+
+
+
+/* group section */
+
+.group {
+  padding: 10% 15%;
+}
+
+
+/* contact section */
+.contact {
+  padding: 8% 15%;
+}
+
+.contact-title {
+  font-weight: bolder;
+}
+
+.contact-form {
+  padding: 4% 15%;
+}
+
+.contact-form-heading {
+  font-weight: bolder;
+}
+
+
+/* events section */
+.events {
+  padding: 15% 15%;
+}
+
+/* donation section */
+.donate-form {
+  padding: 10% 15%;
+}
+
+.donate-form-heading {
+  font-weight: bolder;
+}
+/* footer secction */
+
+footer {
+  padding: 8% 15%;
+}
+
+.footer-body {
+  color: #CDD3DD;
+}
+
+
+/* additional css */
+
+.icon {
+  color: #29C9DB;
+}
+
+.login {
+  padding: 15% 0;
+}
+
+.login-body {
+  padding: 15% 0;
+}
